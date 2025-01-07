@@ -4,7 +4,7 @@
     font-family: 'Poppins', sans-serif;
 }
 .wrapper{
-    background: url(Pictures/background2.jpg)no-repeat;
+    background: url(background2.jpg)no-repeat;
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -114,7 +114,7 @@ p{
 
 /*----- About -----*/
 .wallpaper{
-    background: url(Pictures/mm.jpg)no-repeat;
+    background: url(mm.jpg)no-repeat;
     background-size: cover;
     height: 100vh;
     background-position: center;
@@ -123,7 +123,7 @@ p{
 @media (max-width:450px) {
     .wallpaper{
          font-size: 20px;
-        background: url(Pictures/mm.jpg);
+        background: url(mm.jpg);
         background-size:contain;
         height: 100vh;
         background-position: contain;
@@ -191,7 +191,7 @@ p{
 
 /*----- TOOLS -----*/
 .screen{
-    background: url(Pictures/mm.jpg)no-repeat;
+    background: url(mm.jpg)no-repeat;
     background-size: cover;
     height: 60vh;
     background-position: center;
